@@ -1,6 +1,6 @@
-# Echo State Bridge
+# Reignite
 
-Echo State Bridge is a prototype system for preserving user intent,
+Reignite is a prototype system for preserving user intent,
 reasoning, and workflow continuity across interruptions in AI-assisted
 multi-step tasks.
 
